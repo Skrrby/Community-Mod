@@ -8,7 +8,7 @@ If you managed to find your way here, you probably like mods. I do, and I also l
 Why does this exist? I just had an idea: "What if there was a mod that was built upon by the community as a whole?" and considering my commitment to doing whatever comes to mind that could entertain my bonehead, I could not pass the idea as just a random "What If" my 2 brain cells decided to manufacture.
 
 Everyone is free to contribute to this mod, however, sadly, the mod can't be OP :c (Maybe I (or you) will make an OP version/option sometime in the future?)
-Also i'm not at all experienced with Github to the point where I hear "pull request" and go into a 5-60 second brain ditch of guessing what it means, so please have patience with me (or roast me to bits idc) anyways it's 9:00 PM so if I want to have a semi-healthy sleep schedule I have to be efficient so uhh rules ig...
+Also i'm not at all experienced with Github to the point where I hear "pull request" and go into a 5-60 second brain ditch of guessing what it means (now I do!) nor the bare basics of formatting a README.md, so please have patience with me (or roast me to bits idc) anyways it's 9:00 PM so if I want to have a semi-healthy sleep schedule I have to be efficient so uhh rules ig...
 
 ---------------------------------------Rules---------------------------------------
 
