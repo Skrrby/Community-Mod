@@ -41,10 +41,12 @@ If you need help with something specific, Google it. If it's about the mod, disc
 
 Add yourself here and your contribution to this possible catastrophe in this format:
 [Username] - [Added X to Y/Changed X in Y to Z/Moved X in Y to Z/Translated X to Language/ Ect...] [(Day/Month/Year (yeah screw u m/d/y))]
+---------------------------------------
+ Anuke/Anuken - Created Mindustry in the first place.
 
-Anuke/Anuken - Created Mindustry in the first place.
-Skrrby - Created this.
-BandaidCheerios - Is Skrrby but his alt username.
+ Skrrby - Created this.
+
+ BandaidCheerios - Is Skrrby but his alt username.
 
 ---------------------------------------Extras---------------------------------------
 
