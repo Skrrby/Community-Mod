@@ -13,7 +13,7 @@ Also i'm not at all experienced with Github to the point where I hear "pull requ
 ---------------------------------------Rules---------------------------------------
 
 Rules:
-  1. Please test your stuff before adding, don't wanna oh no the game (also make sure your stuff is compatible with v135)
+  1. Please test your stuff before adding, don't wanna oh no the game (also make sure your stuff is compatible with v135) Oh and make sure to submit your changes to the .zip file, the .rar file is just in case. You can submit your changes on both if you want, but I would save my time.
   
   2. Balance your content. Don't make a "testing" block that gives infinite energy and mass-produces thorium, just... Balance pls.
   
