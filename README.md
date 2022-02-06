@@ -20,6 +20,7 @@ Rules:
   3. Prioritize compatibility. People want to play with other mods, John. (imagine if sk7725, BlueWolf, Xelo, AureusStratus, Yuria, Slava0135 and Sharlottes contributed to this by dumping all their content here lol) (imagine lol) (haha) (yep, just imagine)
   
   4. Don't be holier than thou. Cussing is allowed, *respectfully* roasting each other is allowed. 
+   
    4.1. Don't say racist derrogatory slurs or slurs that were considered offensive *before* 2018 (Using "gay" as an insult is allowed as long as it's not straight up homophobia), that stuff is wack.
   
   5. Don't break the TOSs of Github, Mindustry (idk if it has any lol) or Discord (I'm planning on making a server for this mod, or if someone else wants to make a server for this      mod)
