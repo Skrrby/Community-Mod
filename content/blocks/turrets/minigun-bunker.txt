@@ -1,7 +1,8 @@
 {
 	"type": "ItemTurret",
 	"name": "Minigun Bunker",
-	"description":"A titanium bunker with a Gatling style rotary cannon inside.",
+	"description":"A titanium bunker housing a Gatling style rotary cannon inside. Effective against hordes of 4+ enemies,
+	Good at damaging and disabling Force Fields",
 	"size": 2,
 	"health": 1000,
 	"reloadTime": 0.1,
