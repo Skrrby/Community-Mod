@@ -1,0 +1,35 @@
+##Totally original not copied from 3Snake3/Sapphirium :)
+
+health: 1000
+size: 2
+reloadTime: 40
+recoilAmount: 2
+shots: 2
+shootSound: missile
+burstSpacing: 3
+inaccuracy: 5
+range: 120
+category: defense
+group: walls
+priority: turret
+shootType: {
+type: MissileBulletType
+width: 9
+height: 12
+speed: 5
+lifetime: 20
+damage: 5
+splashDamage: 10
+splashDamageRadius: 15
+homingRange: 35
+weaveScale: 3
+weaveMag: 3
+hitEffect: blastExplosion
+despawnEffect: blastExplosion
+}
+powerUse: 1.5
+requirements: [
+silicon/40
+creostone/10
+]
+research: copper-wall
