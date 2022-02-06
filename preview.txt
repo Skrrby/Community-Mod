@@ -1,0 +1,1 @@
+duplicate icon.png and rename it as "preview.png" i guess
