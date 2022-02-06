@@ -1,0 +1,8 @@
+{
+    "displayName": "CommunityMod",
+    "name": "communitymod",
+    "author": "The Mindustry Community",
+    "description": "For everyone, by everyone. See GitHub for a better description cause idk how to make one.",
+    "minGameVersion": "135",
+    "version": "0.1"
+}
