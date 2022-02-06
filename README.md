@@ -10,6 +10,8 @@ Why does this exist? I just had an idea: "What if there was a mod that was built
 Everyone is free to contribute to this mod, however, sadly, the mod can't be OP :c (Maybe I (or you) will make an OP version/option sometime in the future?)
 Also i'm not at all experienced with Github to the point where I hear "pull request" and go into a 5-60 second brain ditch of guessing what it means (now I do!) nor the bare basics of formatting a README.md, so please have patience with me (or roast me to bits idc) anyways it's 9:00 PM so if I want to have a semi-healthy sleep schedule I have to be efficient so uhh rules ig...
 
+-Make changes to the .zip file if you're on the app.-
+
 ---------------------------------------Rules---------------------------------------
 
 Rules:
