@@ -31,11 +31,12 @@ Rules:
 
 If you have a problem with something here, discord username is Skrrby#2973.
 I am not responsible for Chad the Reddit Mod sharing Joe Biden's Password in here nor any other illegal stuff, i'm just an idiot with some free time.
+Also this mod is open source, which means you can fork it and rename it and edit some stuff to your liking and making it *your* CommunutyMod or whatever you call it. It also means that if you contribute with your code here, that code is pretty much free real estate for anyone that comes across it. So if you have super secret super sneaky super licensed content, keep that in mind when considering contributing.
 
 ---------------------------------------Help---------------------------------------
 
 Not a lot going on right now, but if you could contribute a FAQ or something, go ahead.
-If you need help with something specific, Google it. If it's about the mod, discord username is 4 lines above this one.
+If you need help with something specific, Google it. If it's about the mod, discord username is 10 lines above this one.
 
 ---------------------------------------Credits---------------------------------------
 
