@@ -1,0 +1,79 @@
+{
+	"type": "ItemTurret",
+	"name": "M1 Exile",
+	"description":"A massive long-range 850mm interceptor missile launcher. Only targets aerial units but can deal damage to nearby ground units. Effective against fast attack craft.",
+	"size": 4,
+	"health": 4500,
+	"reloadTime": 1,
+	"xRand": 2,
+	"range": 650,
+	"velocityInaccuracy": 0.1,
+	"maxAmmo": 1,
+	"shots": 1,
+	"shootShake": 1,
+	"shootSound" : "missile",
+	"inaccuracy": 0.2,
+	"shootCone": 0.1,
+	"recoilAmount" : 1.5,
+	"targetAir" : true, 
+	"targetGround" : false, 
+	
+	"ammoTypes": {
+		"lead": {
+			"type" : "BasicBulletType",
+			"damage": 75,
+			"speed": 9.0,
+			"lifetime": 100,
+			"height": 18,
+			"width" : 8,
+			"ammoMultiplier": 1
+			},
+		"scrap": {
+			"type" : "BasicBulletType",
+			"damage": 65,
+			"speed": 10.0,
+			"lifetime": 100,
+			"height": 17,
+			"width" : 7,
+			"ammoMultiplier": 2
+			},
+		"copper": {
+			"type" : "BasicBulletType",
+			"damage": 70,
+			"speed": 10.5,
+			"lifetime": 150,
+			"height": 18,
+			"width" : 8,
+			"ammoMultiplier": 1
+			},
+		"metaglass": {
+			"type" : "BasicBulletType",
+			"damage": 80,
+			"speed": 11.0,
+			"lifetime": 100,
+			"height": 17,
+			"width" : 6,
+			"ammoMultiplier": 2,
+			"pierce": true
+			},
+		"silicon": {
+			"type" : "BasicBulletType",
+			"damage": 75,
+			"speed": 13.0,
+			"lifetime": 250,
+			"height": 18,
+			"width" : 6,
+			"homingPower": 0.15,
+			"homingRange": 250,
+			"ammoMultiplier": 2
+			}
+		},
+		
+	"requirements": [
+		{ "item": "lead", "amount": 100 },
+		{ "item": "titanium", "amount": 250 },
+        { "item": "silicon", "amount": 150 }
+	],
+	"category": "turret",
+	"research": "Scatter"
+}
