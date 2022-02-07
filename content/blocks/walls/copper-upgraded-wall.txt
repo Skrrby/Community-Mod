@@ -1,0 +1,14 @@
+{    
+    "type": "Wall",
+    "description": "Sandbagged copper wall. Placeable on liquids. Effective blockading rivers and streams and against medium ground units."
+    "buildCostMultiplier": 0.1,
+    "health": 650,
+"placeableLiquid": "true",
+    "size": 1,
+    "requirements": [
+        "sand/25",
+        "copper/10"
+    ],
+    "category": "defense",
+    "research": "copper-wall"
+}
